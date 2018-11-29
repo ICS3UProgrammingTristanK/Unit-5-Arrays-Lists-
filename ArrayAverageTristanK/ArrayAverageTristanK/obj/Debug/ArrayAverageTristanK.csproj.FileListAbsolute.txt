@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Unit 5 (Arrays & Lists)\ArrayAverageTristanK\ArrayAverageTristanK\bin\Debug\ArrayAverageTristanK.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Unit 5 (Arrays & Lists)\ArrayAverageTristanK\ArrayAverageTristanK\bin\Debug\ArrayAverageTristanK.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Unit 5 (Arrays & Lists)\ArrayAverageTristanK\ArrayAverageTristanK\bin\Debug\ArrayAverageTristanK.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Unit 5 (Arrays & Lists)\ArrayAverageTristanK\ArrayAverageTristanK\obj\Debug\ArrayAverageTristanK.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Unit 5 (Arrays & Lists)\ArrayAverageTristanK\ArrayAverageTristanK\obj\Debug\ArrayAverageTristanK.frmArrayAverage.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Unit 5 (Arrays & Lists)\ArrayAverageTristanK\ArrayAverageTristanK\obj\Debug\ArrayAverageTristanK.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Unit 5 (Arrays & Lists)\ArrayAverageTristanK\ArrayAverageTristanK\obj\Debug\ArrayAverageTristanK.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Unit 5 (Arrays & Lists)\ArrayAverageTristanK\ArrayAverageTristanK\obj\Debug\ArrayAverageTristanK.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Kalabric, Tristan (s419256)\Unit 5 (Arrays & Lists)\ArrayAverageTristanK\ArrayAverageTristanK\obj\Debug\ArrayAverageTristanK.pdb
